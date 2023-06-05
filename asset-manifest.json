@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cearco/static/css/main.1ef57f0a.css",
+    "main.css": "/Cearco/static/css/main.b0a1e8ae.css",
     "main.js": "/Cearco/static/js/main.698ae0d0.js",
     "static/js/787.d02085a9.chunk.js": "/Cearco/static/js/787.d02085a9.chunk.js",
     "static/media/CEARCO_Black_Background.jpg": "/Cearco/static/media/CEARCO_Black_Background.e9dd38736b0f7fdd41af.jpg",
@@ -13,12 +13,12 @@
     "static/media/AMCAP Eternal.otf": "/Cearco/static/media/AMCAP Eternal.ec700637f54eb0364865.otf",
     "static/media/cearco_logo.png": "/Cearco/static/media/cearco_logo.dbbc8794c907f2af1cc4.png",
     "index.html": "/Cearco/index.html",
-    "main.1ef57f0a.css.map": "/Cearco/static/css/main.1ef57f0a.css.map",
+    "main.b0a1e8ae.css.map": "/Cearco/static/css/main.b0a1e8ae.css.map",
     "main.698ae0d0.js.map": "/Cearco/static/js/main.698ae0d0.js.map",
     "787.d02085a9.chunk.js.map": "/Cearco/static/js/787.d02085a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ef57f0a.css",
+    "static/css/main.b0a1e8ae.css",
     "static/js/main.698ae0d0.js"
   ]
 }
