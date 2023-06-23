@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cearco/static/css/main.2149962d.css",
+    "main.css": "/Cearco/static/css/main.9f042af8.css",
     "main.js": "/Cearco/static/js/main.72b34eb9.js",
     "static/media/CEARCO_Black_Background.jpg": "/Cearco/static/media/CEARCO_Black_Background.e9dd38736b0f7fdd41af.jpg",
     "static/media/rubyred_tireshinelabel.jpg": "/Cearco/static/media/rubyred_tireshinelabel.0b61a1522d33f3b7c86c.jpg",
@@ -12,11 +12,11 @@
     "static/media/AMCAP Eternal.otf": "/Cearco/static/media/AMCAP Eternal.ec700637f54eb0364865.otf",
     "static/media/cearco_logo.png": "/Cearco/static/media/cearco_logo.ac62422d931057720ea2.png",
     "index.html": "/Cearco/index.html",
-    "main.2149962d.css.map": "/Cearco/static/css/main.2149962d.css.map",
+    "main.9f042af8.css.map": "/Cearco/static/css/main.9f042af8.css.map",
     "main.72b34eb9.js.map": "/Cearco/static/js/main.72b34eb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2149962d.css",
+    "static/css/main.9f042af8.css",
     "static/js/main.72b34eb9.js"
   ]
 }
